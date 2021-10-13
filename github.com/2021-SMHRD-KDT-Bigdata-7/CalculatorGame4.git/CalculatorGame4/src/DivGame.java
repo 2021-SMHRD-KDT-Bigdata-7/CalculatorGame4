@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class divideGame implements iGame{
+public class DivGame implements iGame{
 	
 	private Random ran;
 	private int num1;
